@@ -1,9 +1,18 @@
 header
+
+
 {background-color: #424e61;
-color: white
+   color: white;
+   display: flex;
+   justify-content: space-around;
 }
 
 .cabesario-imagen{
     width: 20%;
 
+}
+
+.cabesario-lista-item{
+    display: inline-block;
+    margin: 0% 16px;
 }
