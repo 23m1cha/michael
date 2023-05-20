@@ -22,3 +22,11 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.escola-imagen{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#424e61,#00bbff);
+    color: white;
+    display: flex;
+}
